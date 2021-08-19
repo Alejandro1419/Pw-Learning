@@ -1,0 +1,49 @@
+/*ESTIQUETAS*/
+body{
+    /*background-image: url(https://somoskudasai.com/wp-content/uploads/2021/06/portada_kiryu-coco-9.jpg);*/
+    
+    background-color: rgba(255, 228, 196, 0.932);
+}
+h1 {
+
+    color: blue;
+    font-size: 20px;
+}
+div a{
+    text-decoration: none;
+    color:black;
+    border:solid 2px;
+    padding: 10px;
+    background-color: rgb(163, 123, 12);
+}
+div a:hover{
+
+    background-color: rgb(255, 251, 5);
+    font-size: 17px;
+}
+/* FIN ETIQUETAS*/
+#hola_mundo{
+    margin-top: 20px;
+}
+#segundo_div{
+    background-color: brown;
+}
+#p_prueba{
+    border:dashed 1px;
+    padding: 15px 10px;
+}
+
+.contenedor_parrafos{
+    text-align: center;
+    display: inline-block;
+    width: 40%;
+    border:solid 2px;
+    background-color: #6ec8bc;
+    border-radius:8px;
+    padding-bottom: 15px;
+    box-shadow: 5px 10px rgba(117, 92, 92, 0.712);
+
+}
+.STONE{
+    margin-left: 20px;
+}
